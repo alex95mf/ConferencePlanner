@@ -22,6 +22,7 @@ Este proyecto es una aplicación de planificación de conferencias que ayuda a o
 - **`src/components/FileUploader.jsx`**: Componente encargado de manejar la carga de archivos.
 - **`src/components/TopicTable.jsx`**: Componente que representa la tabla de una temática específica con detalles de las charlas.
 - **`styles/`**: Carpeta que contiene archivos CSS para estilos de los componentes.
+- **`src/data/conferenceData.txt`**: Archivo que contiene la información de las Conferencias, este archivo será subido a través del botón "Elegir archivo"
 
 ## Instrucciones de Ejecución
 
@@ -47,6 +48,8 @@ Este proyecto es una aplicación de planificación de conferencias que ayuda a o
     ```
 
 7. Abra su navegador y vaya a `http://localhost:3000`.
+
+8. De clic en el botón "Elegir Archivo" y seleccione el archivo conferenceData.txt ubicado en la ruta:  **`src/data/conferenceData.txt`**
 
 ## Ejemplo
 
