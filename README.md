@@ -21,8 +21,8 @@ Este proyecto es una aplicación de planificación de conferencias que ayuda a o
 - **`src/components/Dashboard.jsx`**: Componente principal que integra la interfaz de usuario, la carga de archivos y la visualización del horario.
 - **`src/components/FileUploader.jsx`**: Componente encargado de manejar la carga de archivos.
 - **`src/components/TopicTable.jsx`**: Componente que representa la tabla de una temática específica con detalles de las charlas.
+- **`src/data/conferenceData.txt`**: Archivo que contiene la información de las Conferencias, este archivo será subido a través del botón "Elegir archivo".
 - **`styles/`**: Carpeta que contiene archivos CSS para estilos de los componentes.
-- **`src/data/conferenceData.txt`**: Archivo que contiene la información de las Conferencias, este archivo será subido a través del botón "Elegir archivo"
 
 ## Instrucciones de Ejecución
 
